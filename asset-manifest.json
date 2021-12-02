@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SasikumarGunasekaran1998/MonsterProj.git/static/css/main.8431ccb7.chunk.css",
+    "main.js": "/SasikumarGunasekaran1998/MonsterProj.git/static/js/main.f8943a10.chunk.js",
+    "main.js.map": "/SasikumarGunasekaran1998/MonsterProj.git/static/js/main.f8943a10.chunk.js.map",
+    "runtime-main.js": "/SasikumarGunasekaran1998/MonsterProj.git/static/js/runtime-main.019fd4c9.js",
+    "runtime-main.js.map": "/SasikumarGunasekaran1998/MonsterProj.git/static/js/runtime-main.019fd4c9.js.map",
+    "static/js/2.92bf9765.chunk.js": "/SasikumarGunasekaran1998/MonsterProj.git/static/js/2.92bf9765.chunk.js",
+    "static/js/2.92bf9765.chunk.js.map": "/SasikumarGunasekaran1998/MonsterProj.git/static/js/2.92bf9765.chunk.js.map",
+    "static/js/3.5f551886.chunk.js": "/SasikumarGunasekaran1998/MonsterProj.git/static/js/3.5f551886.chunk.js",
+    "static/js/3.5f551886.chunk.js.map": "/SasikumarGunasekaran1998/MonsterProj.git/static/js/3.5f551886.chunk.js.map",
+    "index.html": "/SasikumarGunasekaran1998/MonsterProj.git/index.html",
+    "static/css/main.8431ccb7.chunk.css.map": "/SasikumarGunasekaran1998/MonsterProj.git/static/css/main.8431ccb7.chunk.css.map",
+    "static/js/2.92bf9765.chunk.js.LICENSE.txt": "/SasikumarGunasekaran1998/MonsterProj.git/static/js/2.92bf9765.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/SasikumarGunasekaran1998/MonsterProj.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.019fd4c9.js",
+    "static/js/2.92bf9765.chunk.js",
+    "static/css/main.8431ccb7.chunk.css",
+    "static/js/main.f8943a10.chunk.js"
+  ]
+}
